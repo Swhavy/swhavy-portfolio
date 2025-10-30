@@ -49,7 +49,8 @@ const projects = [
     image:
       'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-B4Pj4g8YqsnaKxUC4z3cVhQfZtTWGY.png',
     tech: ['Next.js', 'TailwindCSS', 'Framer Motion'],
-    impact: 'Elevated brand presence and client trust',
+    //impact: 'Elevated brand presence and client trust',
+    impact: 'Carefully crafted brand presence to attract clients',
     link: 'https://swhavycollectivetech.vercel.app/',
   },
   {
