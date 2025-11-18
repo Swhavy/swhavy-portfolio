@@ -9,7 +9,7 @@ const skillCategories = [
   },
   {
     category: "Backend",
-    skills: ["Node.js", "FastAPI", "Firebase", "Cloud Functions", "REST APIs"],
+    skills: ["Node.js", "FastAPI", "Firebase", "Cloud Functions", "REST APIs", "Python"],
   },
   {
     category: "AI & Automation",
@@ -21,11 +21,11 @@ const skillCategories = [
   },
   {
     category: "Databases",
-    skills: ["Firebase", "Firestore", "PostgreSQL", "Real-time Sync"],
+    skills: ["Firebase", "Firestore", "Real-time Sync"],
   },
   {
     category: "Tools & Platforms",
-    skills: ["Git", "GitHub", "Vercel", "Docker", "AWS"],
+    skills: ["Git", "GitHub", "Vercel", "Docker"],
   },
 ]
 
