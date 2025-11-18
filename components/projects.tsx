@@ -28,7 +28,7 @@ const projects = [
     impact: 'Enhanced review efficiency and transparency',
     link: 'https://grantera.org',
   },
-  {
+  /* {
     id: 3,
     title: 'BloomGirls Initiative',
     description:
@@ -40,7 +40,7 @@ const projects = [
     link: 'https://www.bloomgirlsfoundation.org/',
     partnership: true,
     partnerName: 'Fellow Developer',
-  },
+  }, */
   {
     id: 4,
     title: 'Swhavy Collective Technologies',
