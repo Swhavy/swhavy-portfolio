@@ -15,7 +15,7 @@ const projects = [
       'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-XSgxUpUchBovV7YPgnGMmO26CoLYz4.png',
     tech: ['Python', 'FastAPI', 'Tesseract OCR', 'Pillow'],
     impact: 'Reduced document processing time by 90%',
-    link: 'https://receipt-sorter-eta.vercel.app/',
+    link: 'https://receipt-sorter-mocha.vercel.app/',
   },
   {
     id: 2,
