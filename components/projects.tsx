@@ -78,7 +78,7 @@ export function Projects() {
           setIsVisible(true)
         }
       },
-      { threshold: 0.1 }
+      { threshold: 0.1 },
     )
 
     if (ref.current) {
@@ -151,11 +151,11 @@ export function Projects() {
                     <h3 className="text-xl md:text-2xl font-bold text-foreground">
                       {project.title}
                     </h3>
-                    {project.partnership && (
+                    {/* {project.partnership && (
                       <span className="px-3 py-1 bg-accent/20 text-accent text-xs font-semibold rounded-full whitespace-nowrap w-fit">
                         👥 Partnership
                       </span>
-                    )}
+                    )} */}
                   </div>
                   <p className="text-foreground/70 leading-relaxed text-sm md:text-base">
                     {project.description}
