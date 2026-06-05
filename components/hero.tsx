@@ -109,7 +109,7 @@ export function Hero() {
                 src="/images/design-mode/swhavy-hero-landscape.jpg"
                 alt="Swhavy - Software Developer and Creative Technologist"
                 fill
-                className="object-cover"
+                className="object-cover object-[center_30%]"
                 priority
                 placeholder="blur"
                 blurDataURL={blurPlaceholders['swhavy-hero']}
